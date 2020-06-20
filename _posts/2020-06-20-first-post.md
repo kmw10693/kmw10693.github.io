@@ -5,7 +5,7 @@ categories: jekyll update
 ---
 [Math]
 
-https://www.edwith.org/linearalgebra4ai/joinLectures/14072 인공지능을 위한 선형대수 학습 정리입니다.
+[https://www.edwith.org/linearalgebra4ai/joinLectures/14072] 인공지능을 위한 선형대수 학습 정리입니다.
 
 
 
