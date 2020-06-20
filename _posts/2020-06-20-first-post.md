@@ -8,6 +8,7 @@ categories: jekyll update
 [https://www.edwith.org/linearalgebra4ai/joinLectures/14072] 인공지능을 위한 선형대수 학습 정리입니다.
 
 선형대수 기초
+
 ![intro](https://user-images.githubusercontent.com/60867950/85201923-ebe12800-b33d-11ea-95c4-e04da21fbf1c.PNG)
 
 Scalar : 단일 숫자를 의미함
