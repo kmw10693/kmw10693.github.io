@@ -1,7 +1,7 @@
 ---
 title: "2. 인공지능을 위한 선형 대수"
 date: 2020-06-20 22:15:00 -0400
-categories: jekyll update
+categories: Math
 ---
 [Math]
 
